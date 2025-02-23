@@ -18,3 +18,7 @@ p {
     cursor: url("Wii-Cursor.png");
 }
 
+html, body {
+    cursor: url("Wii-Cursor.png"), default;
+}
+
