@@ -1,0 +1,20 @@
+body {
+    background-image: url(bg.jpg);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+.special {
+    cursor: url("Wii-Cursor.png");
+}
+
